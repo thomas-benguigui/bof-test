@@ -2180,7 +2180,7 @@
         }, 
         {
          "firstgid":833,
-         "source":"..\/workadventure\/maps\/Floor2\/parquet.tsx"
+         "source":"parquet.tsx"
         }],
  "tilewidth":32,
  "type":"map",
