@@ -194,7 +194,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/49\/Koala_climbing_tree.jpg"
+                 "value":"https:\/\/vi5ymo4191.execute-api.eu-west-3.amazonaws.com\/default\/bofProgram"
                 }],
          "type":"tilelayer",
          "visible":true,
