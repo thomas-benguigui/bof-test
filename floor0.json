@@ -194,7 +194,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vi5ymo4191.execute-api.eu-west-3.amazonaws.com\/default\/bofProgram"
+                 "value":"https:\/\/storage.googleapis.com\/programme_des_bofs\/programme.png"
                 }],
          "type":"tilelayer",
          "visible":true,
