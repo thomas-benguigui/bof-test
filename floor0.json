@@ -194,7 +194,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/i.imgur.com\/sRd79KL.png"
+                 "value":"https:\/\/storage.googleapis.com\/programme_des_bofs\/programme.html"
                 }],
          "type":"tilelayer",
          "visible":true,
